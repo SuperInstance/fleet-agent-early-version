@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 fleet_agent/__init__.py
